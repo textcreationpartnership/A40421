@@ -1,0 +1,483 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Freedom of elections to Parliament, a fundamental law and liberty of the English subject and some presidents shewing the power of the House of Commons to inflict punishments on those who have been guitly [sic] of misdemeanours either in elections or returns : in a letter to a member of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40421</idno>
+            <idno type="STC">Wing F2125</idno>
+            <idno type="STC">ESTC R24341</idno>
+            <idno type="EEBO-CITATION">08141798</idno>
+            <idno type="OCLC">ocm 08141798</idno>
+            <idno type="VID">40934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Freedom of elections to Parliament, a fundamental law and liberty of the English subject and some presidents shewing the power of the House of Commons to inflict punishments on those who have been guitly [sic] of misdemeanours either in elections or returns : in a letter to a member of Parliament.</title>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Dan. Brown and Tim. Goodwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Elections.</term>
+               <term>Election law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40934:1"/>
+            <pb facs="tcp:40934:1" rendition="simple:additions"/>
+            <p>FREEDOM of ELECTIONS TO PARLIAMENT, A Fundamental Law and Liberty OF THE Engliſh Subject; AND SOME PRESIDENTS Shewing the Power of the <hi>Houſe of Commons</hi> To inflict Puniſhments on Thoſe who have been Guilty of <hi>Miſdemeanours</hi> either in <hi>Ele<g ref="char:EOLhyphen"/>ctions</hi> or <hi>Returns. In a Letter to a Member of PARLIAMENT. According to the</hi> Conſtitution <hi>of the</hi> Engliſh <hi>Government, and</hi> Immemorial Cuſtom, All Elections <hi>of</hi> Parliament-men <hi>ought to be made with an</hi> Entire Liberty, <hi>without any ſort of</hi> Force, <hi>or requiring the</hi> Electors <hi>to chuſe ſuch Perſons as ſhall be named to them; and the Perſons thus</hi> freely Elected, <hi>ought to give their Opinions</hi> freely <hi>upon all matters that are brought before them, having the</hi> Good <hi>of the</hi> Nation <hi>ever before their eyes, and following in all things the</hi> Dictates <hi>of their</hi> Conſcience. <hi>P. of</hi> Orange's <hi>Declaration.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Dan. Brown,</hi> at the <hi>Black-Swan</hi> and <hi>Bible</hi> without <hi>Temple-Bar;</hi> and <hi>Tim. Goodwin,</hi> at the <hi>Maiden-head</hi> over-againſt St. <hi>Dunſtan's</hi> Church in <hi>Fleet-ſtreet.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40934:2"/>
+            <pb n="1" facs="tcp:40934:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your Commands, I have now ſent you, out of my little reading, a true Information of what <hi>Puniſhments</hi> the <hi>Houſe of Commons</hi> have inflicted upon ſuch <hi>Perſons,</hi> who by <hi>fraud, force,</hi> or <hi>bribery,</hi> have <hi>violated</hi> the <hi>Ancient Liberties</hi> and <hi>Free<g ref="char:EOLhyphen"/>doms</hi> of the <hi>Commons</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in making <hi>undue Returns</hi> of Members to ſerve in <hi>Parliament:</hi> And what I have here done in pure Obe<g ref="char:EOLhyphen"/>dience, I hope you will receive with all friendly Can<g ref="char:EOLhyphen"/>dor and Benignity; but you will give me leave firſt, I hope, to ſay ſomething concerning our <hi>undoubted Right</hi> to the <hi>Freedom</hi> of <hi>Elections.</hi>
+            </p>
+            <p>I find it, Sir, very clear, that it hath been <hi>accuſto<g ref="char:EOLhyphen"/>med of old times to have Free Elections;</hi> and that this was a <hi>Fundamental Law</hi> and <hi>Liberty</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> For the Statute of <hi>Weſtminſter</hi> the firſt (which was made above <hi>four hundred</hi> years ago, by the <hi>Aſſent</hi> 
+               <note place="margin">An. Dom. 1274.</note> of the Archbiſhops, Biſhops, Abbots, Priors, Earls, Ba<g ref="char:EOLhyphen"/>rons, and all the Comminalty of the Realm thither ſummoned) provideth, That <hi>Elections</hi> ſhould be <hi>freely</hi> and <hi>duly</hi> made, without any diſturbance whatſoever; but I will give it you in its own words.</p>
+            <p>
+               <hi>Becauſe</hi> Elections <hi>ought to be</hi> Free, <hi>the King</hi> 
+               <note place="margin">
+                  <hi>Raſtall's</hi> Stat. fol. 15. 3 E. 1. cap. 5.</note> 
+               <hi>commandeth upon</hi> great Forfeiture, <hi>That no</hi> Great Man, <hi>nor</hi> Other, <hi>by force of Arms, nor by</hi>
+               <pb n="2" facs="tcp:40934:3"/> malice <hi>or</hi> menacing, <hi>ſhall</hi> diſturb <hi>any to make</hi> Free Election.</p>
+            <p>For it was a <hi>Right</hi> and <hi>Liberty</hi> which the good People of <hi>England</hi> had confirmed to them <hi>fifty years</hi> 
+               <note place="margin">An. Dom. 1224.</note> before, as appears by the 9<hi rend="sup">th</hi> Chapter of the <hi>Statute</hi> of <hi>Magna Charta, Anno 9. Hen.</hi> 3. which ſays, That <hi>the City of</hi> LONDON <hi>ſhall have ALL the</hi> Old <note place="margin">
+                  <hi>Magna Charta</hi> 9 H. 3. cap. 9.</note> Liberties <hi>and</hi> Cuſtoms <hi>which it hath been uſed to have.</hi> And then it does immediately follow, <hi>More<g ref="char:EOLhyphen"/>over, We will and grant, That ALL other</hi> Cities, Burroughs, Towns, <hi>and the</hi> Barons <hi>of the</hi> Five Ports, <hi>and all</hi> other Ports, <hi>ſhall have</hi> all <hi>their</hi> Liberties <hi>and</hi> Free Cuſtoms.</p>
+            <p>
+               <hi>Liberties</hi> are here taken for Priviledges, ſuch as (my Lord <hi>Coke</hi> ſays) of Right the People had before.</p>
+            <p>And in his Comment upon the abovementioned <note place="margin">2. Inſt. fol. 168, 169.</note> Chapter of <hi>Weſtminſter</hi> 1. he bids us ſee the Statute of 7 <hi>H.</hi> 4. which ſays, <q rend="inline">That for Knights of the Shires <note place="margin">7 H. 4. cap. 15.</note> for the Parliament in full County, <hi>a free and indiffe<g ref="char:EOLhyphen"/>rent Election</hi> ſhall be made, notwithſtanding any Prayer or Commandment to the contrary.</q>
+            </p>
+            <q>
+               <p>This Statute was made at the <hi>grievous Complaint of</hi> the <hi>Commons,</hi> being <hi>interrupted</hi> of their <hi>Free Ele<g ref="char:EOLhyphen"/>ction</hi> 
+                  <note place="margin">4 Inſt. fol. 10.</note> by the King's Letters Patents, by pretext of an <hi>Ordinance</hi> in the Lords Houſe in 46 <hi>Edw.</hi> 3. but for <note place="margin">Rot. Parl. 46 E. 3. n. 13.</note> the future it was to be <hi>ſine prece,</hi> without any Prayer, or Gift; and <hi>ſine proecepto,</hi> without Commandment of the King, by Writ, or otherwiſe, or of any other. And, he ſays, this was an Act but <hi>declaratory</hi> of the <hi>Ancient Law,</hi> and <hi>Cuſtom</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>There were two Miſchiefs before the making of this <note place="margin">2. Inſt. 169.</note> Statute, as my Lord <hi>Coke</hi> obſerves.</p>
+               <pb n="3" facs="tcp:40934:3"/>
+               <list>
+                  <item>1. For that <hi>Elections</hi> were not <hi>duly</hi> made.</item>
+                  <item>2. That <hi>Elections</hi> were not <hi>freely</hi> made.</item>
+               </list>
+               <p>And both theſe were againſt the ancient Maxim of the Law, <hi>Fiant Electiones ritè &amp; liberè ſine interrupti<g ref="char:EOLhyphen"/>one aliqua;</hi> And again, <hi>Electio libera eſt;</hi> for before <note place="margin">
+                     <hi>Regula.</hi> 7 H. 6. 12. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> this Act, in the irregular Reign of <hi>H.</hi> 3. the <hi>Electors</hi> had neither their <hi>free</hi> nor their <hi>due Elections;</hi> for ſometimes by <hi>force,</hi> ſometimes by <hi>menaces,</hi> and ſometimes by <hi>malice,</hi> the <hi>Electors</hi> were framed, or wrought to make <hi>Election</hi> of Men <hi>Unworthy,</hi> and not <hi>Eligible,</hi> ſo as their Election was neither <hi>due</hi> nor <hi>free.</hi> This Act briefly rehearſeth the Old Rule of the <note n="*" place="margin">Note, <hi>Com<g ref="char:EOLhyphen"/>mon-Law is ge<g ref="char:EOLhyphen"/>neral Preſcrip<g ref="char:EOLhyphen"/>tion; and that Preſcription is before</hi> 1 R. 1. <hi>who was elder Brother to King</hi> John, <hi>Fa<g ref="char:EOLhyphen"/>ther to</hi> H. 3.</note> Common-Law (for that Elections ought to to be free) wherein both the ſaid Points are included. 1. It muſt be a due Election; and 2. It muſt be a free Election.</p>
+               <p>This Statute doth enact, That no Man, upon <hi>grie<g ref="char:EOLhyphen"/>vous Forfeiture,</hi> ſhall diſturb any to make <hi>free Ele<g ref="char:EOLhyphen"/>ction,</hi> and is excellently penned in two reſpects.</p>
+               <p>Firſt, For that generally it extendeth to <hi>all Ele<g ref="char:EOLhyphen"/>ctions;</hi> that is to ſay, to every Dignity, Office, or Place elective, be it Eccleſiaſtical or Temporal, of what kind or quality ſoever.</p>
+               <p>The Act is penned in the Name of the King, <hi>viz. The King commandeth;</hi> and therefore the King bindeth himſelf not to diſturb any Electors to make free Election, as in the like Caſe upon a Statute made in the Reign of the ſaid King; the Act ſaying, <hi>Rex</hi> 
+                  <note place="margin">
+                     <hi>Weſtm.</hi> 2. 13 E. 1. cap. 1. 2 Inſt. 332.</note> 
+                  <hi>perpendens, &amp;c.</hi> the ſame bound the King.</p>
+               <p>Now that Electors might make <hi>free</hi> and <hi>due Ele<g ref="char:EOLhyphen"/>ctions</hi> without diſpleaſure or fear thereof, by this Act
+<pb n="4" facs="tcp:40934:4"/> of Parliament, as a ſure defenee, the King comman<g ref="char:EOLhyphen"/>deth the ſame upon grievous forfeiture.</p>
+               <p>And this Act extends to <hi>All</hi> Elections, as well by thoſe that at the making of this Act had Power to make them, as by thoſe whoſe Power was raiſed or created ſince this Act.</p>
+               <p>
+                  <hi>Grievous Forfeiture.]</hi> That is, the <hi>Diſturbers</hi> 
+                  <note place="margin">Nota benè.</note> to be puniſhed by <hi>grievous Fines</hi> and <hi>Impriſon<g ref="char:EOLhyphen"/>ments.</hi> Thus far the Learned Chief-Juſtice <hi>Coke.</hi>
+               </p>
+               <p>And it is obſerved, ſays the ſame Great Man, that <note place="margin">4 Inſt. 1.</note> when there is <hi>beſt Appearance,</hi> there is the beſt Suc<g ref="char:EOLhyphen"/>ceſs in Parliament.</p>
+            </q>
+            <p>Therefore there was a ſpecial Act of Parliament made on purpoſe in the 5<hi rend="sup">th</hi> 
+               <hi>R.</hi> 2. <hi>to command all</hi> 
+               <note place="margin">Raſt. Stat. 140. 5 R. 2. cap. 4.</note> 
+               <hi>and ſingular Perſons and Communalties, which from thenceforth ſhould have the Sum<g ref="char:EOLhyphen"/>mons of the Parliament, to come to the Par<g ref="char:EOLhyphen"/>liament in the manner as they were</hi> bounden <hi>to do, and had been</hi> accuſtomed <hi>within the Realm of</hi> England <hi>of</hi> old times. <hi>And if any perſon ſo ſummoned (be he</hi> Archbiſhop, Biſhop, Abbot, Prior, Duke, Earl, Baron, Banneret, Knight of the Shire, Ci<g ref="char:EOLhyphen"/>tizen of City, Burgeſs of Burgh, <hi>or other</hi> ſingular Perſon <hi>or</hi> Communalty) <hi>ſhould abſent himſelf, and come not at the ſaid Summons (except he could reaſonably and honeſtly excuſe him<g ref="char:EOLhyphen"/>ſelf) he ſhould be</hi> amerced, <hi>and</hi> otherwiſe puniſhed, <hi>according as of</hi> old times <hi>had been uſed to be done within the Realm.</hi>
+            </p>
+            <p>
+               <hi>And if any</hi> Sheriff <hi>ſhould from thenceforth be</hi> 
+               <note place="margin">Sheriffs negli<g ref="char:EOLhyphen"/>gence in making Returns.</note> negligent <hi>in making his</hi> Returns <hi>of Writs of the Parliament, or</hi> leave out <hi>of the ſaid Returns</hi> 
+               <note place="margin">Or Omiſſion.</note> 
+               <hi>any</hi> Cities <hi>or</hi> Burroughs, <hi>which were</hi> bound, <hi>and of</hi> old times <hi>wont to come to Parliament, he</hi>
+               <pb n="5" facs="tcp:40934:4"/> 
+               <hi>ſhould be puniſhed in the manner as was accuſtomed to be done in the ſaid Caſe in time paſt.</hi>
+            </p>
+            <p>The Parliament was anciently Adjourned of courſe till a Further day, becauſe that ſeveral of the Lords and Commons were not come up, nor their Writs re<g ref="char:EOLhyphen"/>turned: and the declaring the Cauſes of calling it, was uſually deferred till they were all come up, and appear<g ref="char:EOLhyphen"/>ed, as you may ſee in ſeveral places of <hi>Cotton</hi>'s Abridg<g ref="char:EOLhyphen"/>ment of Records: For inſtance, 6 <hi>E. 3. n. 5. 13 E.</hi> 3. <note place="margin">Cotton's A<g ref="char:EOLhyphen"/>bridg. <hi>Sparſim.</hi>
+               </note> 
+               <hi>n. 5. 15 E. 3. n. 4, 5. 17 E. 3. n. 2. 20 E. 3. n. 5, 6. 21 E. 3. n. 4. 22 E. 3. n. 1. 25 E. 3. n. 1. 42 E. 3. n. 1. 51 E. 3. n. 3. 2 R. 2. n. 1. 4 R. 2. n. 1, 2. 5 R. 2. n. 65. 6 R. 2. n. 1. 9 R. 2. n. 1. 9 H. 4. n.</hi> 1, 2. The Par<g ref="char:EOLhyphen"/>liament was adjourned, becauſe ſundry of the Commons Houſe made default, and were abſent. So careful were our Prudent Anceſtors to have a <hi>Full Repreſentative</hi> of the whole Kingdom, whenever a Parliament was to meet, before they would proceed to act in any publick buſineſs, to prevent all <hi>Surpriſes</hi> that might be feared from any Party whatſoever, but eſpecially in the <hi>ma<g ref="char:EOLhyphen"/>king</hi> and <hi>enacting</hi> of publick and general Laws, and giving of <hi>Subſidies</hi> and <hi>Aids</hi> to the Crown; for they well remembred the good old Rule of their <hi>Prede<g ref="char:EOLhyphen"/>ceſſors, quod omnes tangit, ab omnibus approbetur.</hi>
+            </p>
+            <p>King <hi>James</hi> the <hi>Firſt,</hi> in a Meſſage ſent down to the <note place="margin">Journ. Dom Com. Die Ve<g ref="char:EOLhyphen"/>neris 27 Feb. 4. Jac. 1. An. Dom. 1606.</note> 
+               <hi>Houſe of Commons,</hi> ſaid to this effect, That every Mem<g ref="char:EOLhyphen"/>ber who did ſerve for a <hi>Town</hi> or a <hi>Shire,</hi> his <hi>Attendance</hi> and <hi>Service</hi> in the <hi>Houſe</hi> was a <hi>very great Duty;</hi> and that the <hi>Departure</hi> or <hi>Abſence</hi> of <hi>Any</hi> Member of the <hi>Houſe</hi> of <hi>Commons, was a greater Contempt, than Any Nobleman's Departure, who ſerved only for himſelf.</hi>
+            </p>
+            <p>And the Reaſon is very plain and obvious; for it was not only neceſſary that <hi>Both Houſes</hi> ſhould be full at
+<pb n="6" facs="tcp:40934:5"/> their firſt Meeting, but that they ſhould continue ſo to be, as long as the Parliament it ſelf continued; and this appears by a Declarative Statute, made in the <hi>6th Hen.</hi> 8. which ſays, that <hi>Foraſmuch as commonly</hi> 
+               <note place="margin">6 H. 8. cap. 16.</note> 
+               <hi>in the end of Every Parliament, divers and many great and weighty Matters, as well touching the Pleaſure, Weal, and Surety of the King, as the Common-weal of the Realm, and Subjects thereof, are to be Treated, Com<g ref="char:EOLhyphen"/>muned of, and by Authority of Parliament to be Concluded; ſo it is, that divers Knights of Shires, Citizens for Cities, Burgeſſes for Burroughs, and Barons for the Cinque-Ports, long time before the end of the Parliament, of their own Authorities depart, and go home in<g ref="char:EOLhyphen"/>to their Countries, whereby the ſaid great and weighty matters are many times greatly delay<g ref="char:EOLhyphen"/>ed.</hi> Therefore it was provided by the ſaid Act, That <note place="margin">Raſt. Statutes 429. 6 H. 8. cap. 16.</note> 
+               <hi>no</hi> Knight, Citizen, Burgeſs, <hi>or</hi> Barons <hi>of the</hi> Cinque<g ref="char:EOLhyphen"/>
+               <hi>Ports, that for the future ſhould be</hi> Elected <hi>to come, or be in any Parliament, ſhould</hi> depart <hi>from the Parliament, nor</hi> abſent <hi>themſelves from the ſame, without the</hi> Licenſe <hi>of the</hi> Spea<g ref="char:EOLhyphen"/>ker <hi>and</hi> Commons <hi>in Parliament aſſembled, to be entred upon</hi> Record <hi>in the Book of the Clerk of the Parliament, upon</hi> pain <hi>to loſe all thoſe Sums of Money, which he or they ſhould or ought to have had for his or their</hi> Wages. <hi>And that all the</hi> Counties, Cities, <hi>and</hi> Burroughs, <hi>where<g ref="char:EOLhyphen"/>of any ſuch Perſon ſhould be</hi> Elected, <hi>and the</hi> In<g ref="char:EOLhyphen"/>habitants <hi>of the ſame, ſhould be clearly</hi> diſchar<g ref="char:EOLhyphen"/>ged <hi>of the ſaid</hi> Wages <hi>againſt the ſaid Perſon and Perſons, and their Executors for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <pb n="7" facs="tcp:40934:5"/>
+            <p>But to return to what this may ſeem to be a digreſſi<g ref="char:EOLhyphen"/>on from.</p>
+            <p>King <hi>Richard</hi> the <hi>Second,</hi> through the unconfined Flattery of his Ambitious Favourites, being driven on to fierce and violent Ruptures with the other <hi>Great Men</hi> of the Land, who oppoſed the <hi>Male-adminiſtration</hi> of thoſe Publick Enemies to the King and Kingdom's Peace <note place="margin">
+                  <hi>Tho. Walſing.</hi> Hiſtor. Angl. fol. 329.</note> and Happineſs; and being to call a Parliament in the <hi>Eleventh</hi> Year of his Reign, was adviſed to Summon all the <hi>Sheriffs</hi> of <hi>England</hi> unto <hi>Nottingham-</hi>Caſtle, and to enquire of them what Power they could raiſe for him in every County, againſt thoſe <hi>Great</hi> Men that <note place="margin">
+                  <hi>Cloſetting advi<g ref="char:EOLhyphen"/>ſed by the Kings Chief Miniſters.</hi>
+               </note> did ſo oppoſe both him and his beloved <hi>Minions;</hi> and charged them, <hi>ut Ipſi nullum Militem de pago vel Schira permitterent eligi, niſi quem Rex, &amp; ejus Concilium ele<g ref="char:EOLhyphen"/>giſſent.</hi> Whereunto the Sheriffs anſwered, That all the <hi>Commons</hi> favoured thoſe <hi>Great Men;</hi> neither was it in <note place="margin">
+                  <hi>Mr.</hi> Prinns <hi>Plea for the Lords, and Houſe of Peers,</hi> p. 384, 385.</note> their Power to raiſe any Army or Force in that Cauſe: <hi>De Militibus eligendis dixerunt, Communes velle tenere conſuetudines <g ref="char:V">Ʋ</g>ſitatas, quae volunt, quod à communibus Milites eligantur.</hi> Whereupon they were diſmiſſed.</p>
+            <p>Upon that the King ſoon after iſſuing out Writs to the Sheriffs to elect Knights and Burgeſſes for the Parlia<g ref="char:EOLhyphen"/>ment, inſerted this ſtrange and unuſual Clauſe into <note place="margin">Rot. Clauſ. 11 R. 2. m 24. dorſo.</note> them, that they ſhould chuſe ſuch men as were <hi>in de<g ref="char:EOLhyphen"/>batis modernis magis indifferentes.</hi>
+            </p>
+            <p>But the King being quickly after informed by his Councel, that that Clauſe in thoſe Writs was an <hi>illegal Clauſe,</hi> ſent out New Writs to ſuperſede thoſe other, wherein it was declared by him, <hi>Dictam Clauſulam</hi> [viz. in Debatis modernis magis indifferentes] <hi>contra formam Electionis</hi> antiquitùs <hi>uſitatae ac contra Libertatem Domi<g ref="char:EOLhyphen"/>norum</hi> 
+               <note place="margin">Rot. Clauſ. 11 R. 2. m 23. dorſo.</note> 
+               <hi>&amp; Communitatis Regni Angliae eatenus obtentam exiſtere.</hi>
+            </p>
+            <pb n="8" facs="tcp:40934:6"/>
+            <p>But notwithſtanding all this, his Favourites, <hi>ſuae pelii timentes</hi> (as <hi>Tho. Walſingham's</hi> words are) to protect and cover themſelves from the common and deſerved Juſtice of the Nation, perſwaded him ſo highly to in<g ref="char:EOLhyphen"/>vade the <hi>Ancient Form of Elections,</hi> and the <hi>Liberties</hi> of the <hi>Lords</hi> and <hi>Commons,</hi> (and you know, <hi>Sir,</hi> that the People of <hi>England</hi> have in all Ages been celebrated for their <hi>firm Adherence</hi> to their good <hi>Old Liberties</hi> and <hi>Priviledges)</hi> that at laſt it became one of the <note n="†" place="margin">
+                  <hi>Vide</hi> Cotton's <hi>Abridg. of Rec. 1 H. 4. fo. 386. n.</hi> 18.</note> 33 Ar<g ref="char:EOLhyphen"/>ticles for which he was <hi>Depoſed.</hi> It begins thus;</p>
+            <p>Artic. 19. <hi>Item, licet</hi> de Statuto <hi>&amp;</hi> Conſuetudine <hi>Regni,</hi> Although by the <hi>Statute</hi> and <hi>Cuſtom</hi> of the Realm, <note place="margin">Prin's <hi>Plea for the Lords,</hi> p. 438.</note> in the calling together of every Parliament, the People <hi>[in ſingulis Comitatibus Regni debeat eſſe</hi> Liber <hi>ad eli<g ref="char:EOLhyphen"/>gendum &amp; deputandum Milites pro hujuſmodi Comitati<g ref="char:EOLhyphen"/>bus</hi> ad intereſtendum Parliamento] ought to be <hi>free</hi> in <hi>chuſing</hi> and deputing Knights to be preſent in ſuch Parliaments for each reſpective County, and to declare their <hi>Grievances,</hi> and to proſecute ſuch <hi>Remedies</hi> thereupon, <hi>prout eis videretur expedire;</hi> as to them ſhould ſeem expedient. Yet the King, <hi>ut in Parliamentis ſuis liberiùs conſequi valeat ſuae temerariae Voluntatis effectum,</hi> that he might in his Par<g ref="char:EOLhyphen"/>liaments be able more <hi>arbitrarily</hi> to accompliſh the effects of his head-ſtrong will, did very often direct his <hi>commands to his Sheriffs, ut certas perſonas per ipſum Re<g ref="char:EOLhyphen"/>gem nominatas, ut Milites Comitatuum, venire faciant ad Parliamenta ſua,</hi> that they ſhould cauſe to come to his Parliaments, as Knights of the Shire, certain Perſons named by the King; which Knights being his Favou<g ref="char:EOLhyphen"/>rites, he might lead, as often he had done, <hi>quandóque per minas varias &amp; terrores, quandóque per Munera,</hi> ſome<g ref="char:EOLhyphen"/>times by various <hi>Menaces</hi> and <hi>Terrors,</hi> and ſometimes by <hi>Gifts,</hi> to conſent to thoſe things as were <hi>prejudicial</hi> to
+<pb n="9" facs="tcp:40934:6"/> the <hi>Kingdom,</hi> and exceeding burthenſome to the Peo<g ref="char:EOLhyphen"/>ple; and eſpecially to grant to the King a <hi>Subſidy</hi> on Wool for the <hi>term of his Life,</hi> and another <hi>Subſidy</hi> for certain Years, thereby too grievouſly oppreſſing his People.</p>
+            <p>I ſhall deſcend from that unfortunate Prince, to King <note place="margin">23 H. 6. cap. 15.</note> 
+               <hi>Hen.</hi> 6. and there in the 23d year of his Reign, (al<g ref="char:EOLhyphen"/>moſt 256 years ago) a Statute was made, intituled, <hi>Who ſhall be Knights for the Parliament. The manner of their Election. The Remedy where one is choſen, and</hi> 
+               <note place="margin">Pulton's Stat. fol. 349.</note> 
+               <hi>another returned.</hi> In the Body of which we read, That <hi>every Sheriff, after the delivery of the Writ to him made, ſhall make and deliver without fraud a Precept under his Seal, to every Mayor, and Bailiff or Bayliffs, or Bailiff, where no Mayor is, of the Cities and Buroughs within his County, reciting the Writ, com<g ref="char:EOLhyphen"/>manding them, if it be a City, to chuſe by Ci<g ref="char:EOLhyphen"/>tizens of the ſame City, Citizens; and if a Burough, Burgeſſes, to come to the Parlia<g ref="char:EOLhyphen"/>ment; and ſuch Officers as aforeſaid ſhall</hi> re<g ref="char:EOLhyphen"/>turn Lawfully <hi>ſuch Precept to the ſame Sheriff, by Indentures between them, of ſuch Electi<g ref="char:EOLhyphen"/>ons, and the Names of the Citizens and Bur<g ref="char:EOLhyphen"/>geſſes ſo choſen, and thereupon every Sheriff ſhall make a</hi> good and Rightful Return <hi>of every ſuch Writ, and of every Return by ſuch Officers as aforeſaid.</hi>
+            </p>
+            <p>
+               <hi>And every Sheriff, at every time that he does contrary to this Statute, or any <note n="*" place="margin">3 E. 1.</note> other Statutes for the Election of Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgeſſes, ſhall incur the pain con<g ref="char:EOLhyphen"/>tained in the Statute of</hi> 8 H. 6. <hi>(which is to</hi> 
+               <note place="margin">8 H. 6. cap. 7.</note>
+               <pb n="10" facs="tcp:40934:7"/> 
+               <hi>forfeit</hi> 100 l. <hi>to the King, and ſuffer</hi> 
+               <note place="margin">Note <hi>The difference of the Va<g ref="char:EOLhyphen"/>lue of</hi> 100 l. <hi>then, and</hi> 100 l. <hi>now, for K.</hi> H. 8. <hi>left to his Two Daughters by his Will no more than</hi> 10000 l. <hi>a piece, who were afterwards Queens of</hi> England.</note> 
+               <hi>a Years Impriſonment, without Bail or Mainprize) and moreover ſhall forfeit and pay to every Perſon ſo choſen, Knight, Citizen, or Bur<g ref="char:EOLhyphen"/>geſs, and not</hi> duly returned, <hi>or to any other Perſon, who in default of any ſuch Knight, Citizen, or Burgeſs, will ſue, 100 l. more, to be recover'd by Action of Debt a<g ref="char:EOLhyphen"/>gainſt the ſaid Sheriff, or his Execu<g ref="char:EOLhyphen"/>tors,</hi> 
+               <note place="margin">
+                  <hi>The publick Deteſtation and Abhorrence of</hi> pack'd Returns <hi>of Knights, Citizens, and Bur<g ref="char:EOLhyphen"/>geſſes to Parliament.</hi>
+               </note> 
+               <hi>or Adminiſtrators, with his or their Coſts in ſuch caſe diſpended, in<g ref="char:EOLhyphen"/>which Action the Defendant ſhall not wage his Law, nor have any Eſſoign allowed.</hi>
+            </p>
+            <p>
+               <hi>And in the ſame manner, at every time that any Mayor and Bailiffs, or Bailiff, or Bailiffs where no Mayor is, ſhall return other than thoſe who be choſen by the Citizens and Bur<g ref="char:EOLhyphen"/>geſſes, of the Cities or Buroughs, where ſuch Elections ſhall be made, they ſhall incur and for<g ref="char:EOLhyphen"/>feit to the King 40 l. and moreover 40 l. to the Perſon ſo choſen and not returned, to be reco<g ref="char:EOLhyphen"/>vered in manner as aforeſaid, by ſuch Perſon choſen, or any other who in their Default will ſue for the ſame.</hi>
+            </p>
+            <p>One would imagine that after ſuch an Act as this was made, it ſhould ſcarce ever be attempted by any to <hi>invade</hi> our <hi>Liberties,</hi> eſpecially in a point that ſo nearly concerns the <hi>Salvation</hi> of all our Intereſts: For as the old Lord Treaſurer <hi>Burleigh</hi> (who was account<g ref="char:EOLhyphen"/>ed the greateſt Stateſman that ever this Nation had) was often heard to ſay, <hi>That</hi> England <hi>could hardly ever be ruined, unleſs it were by her own Parliaments;</hi> ſo we need never to fear that Parliaments will <hi>undo</hi> us, unleſs we
+<pb n="11" facs="tcp:40934:7"/> ſuffer ourſelves to be cozen'd into Slavery by being <hi>cheat<g ref="char:EOLhyphen"/>ed</hi> out of our <hi>Beſt</hi> and <hi>Higheſt Rights,</hi> I mean <note place="margin">† Prince of O<g ref="char:EOLhyphen"/>range's Decla<g ref="char:EOLhyphen"/>ration.</note> our <hi>Entire Freedoms</hi> of <hi>Electing</hi> ſuch for our <hi>Repreſentatives,</hi> with whom we can with confidence truſt our <hi>Religion, Lives, Honours, Liberties, Eſtates,</hi> and <hi>Poſterity:</hi> But if the <hi>Nation</hi> ſhall at any time hereafter be ſo <hi>careleſs</hi> as to permit a <hi>pack'd Houſe</hi> of <hi>Commons</hi> to be put upon her, ſhe may then indeed be given up as an <hi>eaſie Prey</hi> to the <hi>Arbitrary Pleaſure</hi> and <hi>Luſt</hi> of thoſe <hi>contriving Ma<g ref="char:EOLhyphen"/>nagers</hi> of her <hi>Ruin,</hi> and (what will ſtill add <hi>Weight</hi> and <hi>Aggravation</hi> to her Miſery) as ſhe falls with <hi>Scorn,</hi> ſo ſhe will fall <hi>unpitied</hi> to all <hi>Chriſtendom.</hi>
+            </p>
+            <p>Thus was that weak Prince, King <hi>Henry</hi> the <hi>Sixth,</hi> 
+               <note place="margin">23 H. 6. 38 H. 6. call'd the <hi>Coventry</hi> Parliament.</note> impoſed upon by his <hi>evil Councellors</hi> and <hi>Favourites,</hi> but fifteen years after the making of this <hi>laſt mentioned</hi> Sta<g ref="char:EOLunhyphen"/>tute, and what were the <hi>miſerable Effects</hi> thereof; you ſhall hear the Parliament of the next Year following at <hi>Weſtminſter</hi> declare, in theſe words, That <hi>divers ſedi<g ref="char:EOLhyphen"/>tious and evil diſpoſed Perſons, having no re<g ref="char:EOLhyphen"/>gard</hi> 
+               <note place="margin">39. H. 6. cap 1. <hi>Raſtalls</hi> Stat. fol. 287.</note> 
+               <hi>to the</hi> Dread <hi>of</hi> God, <hi>nor to the</hi> Damage <hi>of the</hi> proſperous Eſtate <hi>of the</hi> King, <hi>nor his</hi> Realm, <hi>ſiniſterly and importunely did labour with the King to ſummon a Parliament to be holden at his City of</hi> Coventry, <hi>the</hi> 20th <hi>day of the Month of</hi> November, <hi>the</hi> 38th <hi>year of his Reign,</hi> only <hi>to</hi> deſtroy <hi>certain of the</hi> great Nobles, faithful and law<g ref="char:EOLhyphen"/>ful Lords and Eſtates of the King's Blood, and other of the faithful Liege-people <hi>of the Realm of</hi> England, <hi>for the great</hi> Rancour, Hatred, <hi>and</hi> Malice, <hi>which the ſaid</hi> Seditious Perſons <hi>of long time have had againſt them: And of their greedy and inſatia<g ref="char:EOLhyphen"/>ble Covetouſneſs to have the</hi> Lands, Hereditaments, Poſſeſſions, Offices, <hi>and</hi> Goods <hi>of the ſaid</hi> Lords <hi>and faithful</hi> Liege-people; <hi>by which ſiniſter labour</hi>
+               <pb n="12" facs="tcp:40934:8"/> 
+               <hi>certain Acts, Statutes, &amp; Ordinances,</hi> againſt all good Faith and Conſcience, <hi>in the ſaid Parlia<g ref="char:EOLhyphen"/>ment were made,</hi> finally to deſtroy the ſaid law<g ref="char:EOLhyphen"/>ful Lords, Eſtates, and Liege-people, <hi>and their</hi> Iſſues, <hi>as well</hi> Innocents <hi>as</hi> other, <hi>and their</hi> Heirs, for <hi>ever; which Parliament was unduly ſum<g ref="char:EOLhyphen"/>moned, and a great part of the</hi> Knights <hi>for</hi> di<g ref="char:EOLhyphen"/>vers Counties <hi>of this Realm, and</hi> many Burgeſſes <hi>and</hi> Citizens, <hi>for divers Buroughs and Cities in the ſame appearing were</hi> named, Returned <hi>and</hi> ac<g ref="char:EOLhyphen"/>cepted, <hi>ſome of them</hi> without due <hi>and</hi> free Electi<g ref="char:EOLhyphen"/>on, <hi>ſome of them</hi> without any Election, <hi>againſt the</hi> 
+               <note n="⸪" place="margin">
+                  <hi>All Kings that are not</hi> Ty<g ref="char:EOLhyphen"/>rants, <hi>or</hi> perju<g ref="char:EOLhyphen"/>red, <hi>will be glad to bound them<g ref="char:EOLhyphen"/>ſelves within the limits of their Laws; and they that perſwade them the contrary, are</hi> Vipers, <hi>and</hi> Peſts, <hi>both againſt them and the Commonwealth.</hi> K. James 1. Speech to his Parl. 1609. in his Works, fol. 531.</note> Courſe <hi>of the</hi> King's Laws, <hi>and the</hi> Liberties <hi>of the</hi> Commons <hi>of this</hi> Realm, <hi>by the</hi> means <hi>and</hi> la<g ref="char:EOLhyphen"/>bours <hi>of the ſaid</hi> ſeditious Perſons, <hi>whereby many great Ieopardies, Enormities, and Inconve<g ref="char:EOLhyphen"/>niences, well nigh to the</hi> Ruin, Decay, <hi>and</hi> Uni<g ref="char:EOLhyphen"/>verſal Subverſion <hi>of the ſaid Realm have enſued.</hi>
+            </p>
+            <p>
+               <hi>And therefore the King, conſidering the pre<g ref="char:EOLhyphen"/>miſes, and that the ſaid Lords, Eſtates, and other his Leige-people, againſt whom the ſaid Acts, Statutes and Ordinances were made, had always had great and faithful Love to the Preferment and Surety of the King's Perſon, according to their Duty: and that</hi> few <hi>of the</hi> Acts <hi>made in the ſaid Parliament holden at</hi> Coventry, <hi>were made for the</hi> Weal <hi>of the</hi> King, <hi>nor of his ſaid</hi> Realm, <hi>but the</hi> greater part <hi>of the</hi> Acts, Statutes, <hi>and</hi> Ordinances <hi>there made, were</hi> laboured <hi>by the</hi> Conſpiracy, Procurement, <hi>and</hi> Exci<g ref="char:EOLhyphen"/>tation <hi>of the ſaid</hi> evil diſpoſed perſons, <hi>for the in<g ref="char:EOLhyphen"/>troduction
+<pb n="13" facs="tcp:40934:8"/> and accompliſhment of their</hi> Rancour <hi>and</hi> inordinate Covetiſe: <hi>It was Ordained and</hi> Eſtabliſhed by the Authority of the then Parliament, <hi>That the ſaid Parliament holden at the ſaid City of</hi> Coventry, <hi>be</hi> void, <hi>and holden for</hi> no Par<g ref="char:EOLhyphen"/>liament. <note place="margin">
+                  <hi>The King, Lords, and Commons, in</hi> 39 H. 6. <hi>de<g ref="char:EOLhyphen"/>clare the whole Parliament of</hi> Coventry, An. 38 H. 6. <hi>to be void, and holden for no Parliament; and all the Acts of it are repealed, and made void, becauſe of the</hi> undue <hi>and</hi> unfree Election <hi>of Knights, Citizens, and Burgeſſes to that Parliament.</hi>
+               </note> 
+               <hi>And that all Acts, Statutes, and Or<g ref="char:EOLhyphen"/>dinanres, by the Authority of the ſame made, be reverſed, adnulled, undone, repealed, revo<g ref="char:EOLhyphen"/>ked, void, and of no force nor effect.</hi>
+            </p>
+            <p>And although thoſe Acts were repealed upon the juſteſt Grounds and Reaſon in the world; yet ſo great and powerful was the <hi>Coventry-</hi>Faction, that it raiſed ſuch a Fermentation throughout the whole Kingdom, as never left working, till it had <hi>effectually</hi> wrought the <hi>utter</hi> Ruin of <hi>Henry</hi> VI. and his Son Prince <hi>Edward,</hi> as the * <hi>Hiſtorians,</hi> joind with our <note n="*" place="margin">Cotton's Rec. Speed's Hiſtory.</note> 
+               <hi>Records,</hi> do fully ſhew, and make manifeſt.</p>
+            <p>But now it will not be <hi>hors de propos</hi> to examine the <hi>Writ of Summons</hi> it ſelf; for therein we ſhall find ſeveral Obſervables worth our taking notice of: As,</p>
+            <p n="1">1. That it plainly <hi>directs</hi> to, and <hi>enjoins</hi> an <hi>entire Freedom</hi> in the <hi>Election</hi> of all thoſe that are to be ſent up to ſerve in Parliament. The words are, <hi>Tibi prae<g ref="char:EOLhyphen"/>cipimus</hi> 
+               <note place="margin">
+                  <hi>Crompton's Ju<g ref="char:EOLhyphen"/>riſd.</hi> p. 1, b.</note> 
+               <hi>firmi èr injungentes, quod,</hi> &amp;c. <hi>Duos milites gladiis cinctos magis Idoneos &amp; Diſcretos Comitat' prae dicti, &amp; de qualibet Civitate Duos Cives, &amp; de quoli<g ref="char:EOLhyphen"/>bet Burgo Duos Burgenſes de Diſcretioribus &amp; magis ſufficientibus</hi> libèrè <hi>&amp;</hi> indifferentòr <hi>Eligi fac,</hi> &amp;c. And this is commanded to be done <hi>juxta formam Statutorum inde edit. &amp; provis';</hi> that is, That they be <hi>freely</hi> and <hi>in<g ref="char:EOLhyphen"/>differently</hi>
+               <pb n="14" facs="tcp:40934:9"/> choſen, according to the Tenor of the Sta<g ref="char:EOLhyphen"/>tutes in that Caſe made and provided.</p>
+            <p n="2">2. And the Writ does proceed further, and ſays, <hi>Ità quod iidem Milites</hi> plenam <hi>&amp;</hi> ſufficientem poteſtatem <hi>pro ſe &amp; Commanitate Comit',</hi> &amp;c. <hi>ac dict' Cives &amp; Bur<g ref="char:EOLhyphen"/>genſes pro ſe &amp; Communitat'. Civitatum &amp; Burgorum diviſim ab ipſis habeant, ad faciendum &amp; conſentiendum his quae tunc ibidem</hi> de Communi Concilio Regni <hi>conti<g ref="char:EOLhyphen"/>gerint ordinari ſuper quibuſdam Arduis &amp; <g ref="char:V">Ʋ</g>rgentibus Negotiis, Regem, Statum &amp; Defenſionem Regni</hi> Angliae, <hi>&amp; Eccleſiae</hi> Anglicanae <hi>concernen':</hi> That the ſaid <hi>Knights,</hi> for <hi>themſelves,</hi> and for their <hi>County;</hi> and the ſaid <hi>Citi<g ref="char:EOLhyphen"/>zens</hi> and <hi>Burgeſſes,</hi> for themſelves, and the <hi>Commonalty</hi> of their <hi>Cities</hi> and <hi>Burroughs,</hi> may have <hi>ſeverally from them full</hi> and <hi>ſufficient Power</hi> to <hi>perform</hi> and to <hi>conſent</hi> to thoſe things which ſhall there happen to be ordained by the <hi>Common-Council</hi> of the <hi>Kingdom,</hi> concerning the arduous and urgent Buſineſſes of the King, the State, and Defence of the Kingdom of <hi>England,</hi> and the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Church.</p>
+            <p n="3">3. But this is not all yet we ſhall obſerve from the Writ; there is another Clauſe that carries a great weight along with it, and that is this, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Ità quod pro defectu Poteſtatis hujuſmodi, ſeu propter</hi> improvidam Electionem <hi>Militum, Civium, aut Burgenſium, dicta</hi> Negotia infecta <hi>non remaneant quovis modo;</hi> i. e.</p>
+            <p>So that the buſineſs may not by any means remain <hi>undone</hi> for want of ſuch <hi>power,</hi> or by reaſon of the im<g ref="char:EOLhyphen"/>provident Election of the Knights, Citizens, or Bur<g ref="char:EOLhyphen"/>geſſes.</p>
+            <pb n="15" facs="tcp:40934:9"/>
+            <p>One would think, there needed no more than this very Writ, to convince and ſatisfie all men, that our <hi>Choice</hi> of <hi>Repreſentatives</hi> to ſerve us in Parliament, ought to be with all the <hi>Freedom, Fairneſs,</hi> and <hi>Impartiality</hi> that can be; and that all vile Tricks and Artifices ſhould be abhorred: For how can thoſe be <hi>fully</hi> and <hi>ſufficiently</hi> authoriſed and empowered to act for the Good and Safety of the King and Kingdom, that have not been <hi>freely elected</hi> by the People, who muſt give them that Power, which is <hi>abſolutely</hi> neceſſary to make what they do to become valid, and to be accounted the Statutes of the Realm?</p>
+            <p>But notwithſtanding theſe good and wholſom Laws to ſecure the <hi>Freedom</hi> of <hi>Elections,</hi> and the plain form of the <hi>Writ</hi> of Summons <hi>purſuant</hi> to theſe <hi>Statutes,</hi> and the <hi>ancient Cuſtom</hi> of the Kingdom; yet ſome Men we have read of, have been ſo bold and daring in their at<g ref="char:EOLhyphen"/>tempts, as to bid <hi>open defiance</hi> to them.</p>
+            <p>And although every <hi>Parliament</hi> almoſt ſince <hi>H. 6.'s</hi> time, hath heard <hi>loud Complaints</hi> againſt the dangerous Conſequences of <hi>illegal Elections,</hi> yet no Parliament (though many good Men have, by bringing Bills into the <hi>Houſe of Commons,</hi> deſigned to prevent <hi>undue Ele<g ref="char:EOLhyphen"/>ctions)</hi> hath had the happineſs, for the general Peace and Quiet of the Nation, to regulate and amend that which ſo bare-facedly tended to the * <hi>Traiterous Sub<g ref="char:EOLhyphen"/>verſion</hi> 
+               <note place="margin">
+                  <hi>The 5th Article of High-Treaſon againſt the five Members in K.</hi> Charles <hi>I.'s time, ſays,</hi> That they had traiterouſly endeavoured to ſubvert the very Rights and Beings of Parliaments. <hi>Husbands Collect.</hi> 4<hi rend="sup">to.</hi> p. 35 Sanderſon's Hiſt. 473.</note> of the very <hi>Rights</hi> and <hi>Beings</hi> of <hi>Parliament.</hi>
+            </p>
+            <p>I ſhall therefore here in the next place ſubjoin ſome few Precedents, to ſhew you how <hi>Miſdemeanors</hi> in <hi>Elections</hi> have been formerly <hi>puniſhed</hi> by the <hi>Houſe of Commons,</hi> in the Reigns of Queen <hi>Elizabeth,</hi> King
+<pb n="16" facs="tcp:40934:10"/> 
+               <hi>James,</hi> and King <hi>Charles</hi> I. But one word firſt, concerning <hi>Violent</hi> and <hi>Irregular Elections</hi> and <hi>Re<g ref="char:EOLhyphen"/>turns.</hi>
+            </p>
+            <p>In an Oration (made by a Worthy Gentleman, <hi>viz.</hi> Mr. <hi>John Hales,</hi> whom I take by the Contexture of it <note place="margin">Fox's <hi>Book of Martyrs,</hi> laſt Edit. 3. Vol. fol. 819. Col. 1.</note> to be one of the Long Robe) to Queen <hi>Elizabeth,</hi> and which was delivered to Her Majeſty by a certain No<g ref="char:EOLhyphen"/>bleman, at her firſt entrance to her Reign; he tells her, <q rend="inline">That Queen <hi>Mary's</hi> firſt Parliament, wherein She and <note place="margin">Idem fol. 820. Col. 2.</note> her Council grounded and wrought a great part of their Tyranny, and wherein they meant to overthrow whatſoever King <hi>Edward</hi> had for the Advancement of God's Glory brought to paſs, was of no force or Au<g ref="char:EOLhyphen"/>thority: For ſhe perceiving her Enemies ſtomach could not be emptied, nor Her malice ſpewed on the People by any good Order, ſhe committed a great Diſorder. <hi>She by Force and Violence took from the Commons their Liberty, that according to the Ancient Laws and Cuſtoms of the Realm, they could not have</hi> 
+                  <note place="margin">☞</note> 
+                  <hi>their Free Election of Knights and Burgeſſes for the Parliament;</hi> for ſhe well knew, that if either <hi>Chriſtian-</hi>men or true <hi>Engliſh</hi> men ſhould be <hi>elected,</hi> it was not poſſible that to ſucceed which ſhe intended. And therefore in many places divers were choſen by <hi>force</hi> of her <hi>Threats,</hi> meet to ſerve her malicious Affecti<g ref="char:EOLhyphen"/>ons; wherefore <hi>that Parliament</hi> was <hi>no Par<g ref="char:EOLhyphen"/>liament,</hi> but may be juſtly called <hi>a Conſpiracy</hi> of <hi>Tyrants</hi> and <hi>Traytors;</hi> for the <hi>Great Part,</hi> by whoſe <hi>Authority</hi> and <hi>Voices</hi> things proceeded in that Court, by their <hi>Acts</hi> moſt manifeſtly declared them<g ref="char:EOLhyphen"/>ſelves ſo; the reſt being both <hi>Chriſtians</hi> and true <hi>Eng<g ref="char:EOLhyphen"/>liſh-</hi>men, although they had good wills, yet were not able to reſiſt or prevail againſt the <hi>multitude</hi> of <hi>Voices</hi> and <hi>Suffrages</hi> of ſo <hi>many</hi> evil, <hi>falſe</hi> to <hi>God,</hi> and <hi>Enemies</hi>
+                  <pb n="17" facs="tcp:40934:10"/> to their <hi>Country.</hi> Alſo divers Burgeſſes being <hi>orderly choſen,</hi> and <hi>lawfully returned,</hi> as in ſome places the people did what they could to reſiſt her purpoſes, were <hi>diſorderly</hi> and <hi>unlawfully</hi> put out, and others, <hi>without any Order of Law,</hi> in their places placed.</q>
+            </p>
+            <p>But it was meant at the firſt, and Firſt Conſtitu<g ref="char:EOLhyphen"/>tion <note place="margin">
+                  <hi>Sir</hi> Simonds D'Ewe's <hi>Journ.</hi> fol. 170. Col. 2. 13 Eliz. 1571.</note> of Parliament, (as is obſerved by a Learned Mem<g ref="char:EOLhyphen"/>ber in Sir <hi>Simonds D'Ewes</hi> Journal), That Men of every Quarter, and of all ſorts, ſhould come to the Commons Houſe; and that they ſhould be <hi>Freely Choſen.</hi>
+            </p>
+            <p>And therefore he ſays, <q rend="inline">In Queen <hi>Mary's</hi> time, a <note place="margin">Idem Ibid. Col. 2.</note> 
+                  <hi>Council</hi> of this Realm (not the Queens Privy Coun<g ref="char:EOLhyphen"/>cil) did write to a Town, to chuſe a Biſhop's Brother, (and a great Biſhop's Brother he was indeed), whom they aſſured to be a good Catholick Man; and willed them to chuſe to the like of him ſome other fit Man. The Council was anſwer'd, That they were prohibi<g ref="char:EOLhyphen"/>ted by Law. And then he goes on, 'If all Towns in <hi>England</hi> had done the like in their Choice, the Crown had not been ſo wrong'd, and the Realm ſo robb'd, with ſuch eaſe, at that Parliament of Queen <hi>Mary's,</hi> and Truth baniſhed as it was. And he adds, <hi>What hath been, may be, there is no impoſſibility.</hi>
+               </q>
+            </p>
+            <p>And accordingly it happened in the ſame 13th year of Queen <hi>Elizabeth,</hi> that a Burgeſs by <hi>Bribery</hi> had got to be <hi>Elected:</hi> but what <hi>His</hi> and the <hi>Corporations</hi> Pu<g ref="char:EOLhyphen"/>niſhments were for ſuch <hi>foul dealings,</hi> I will now ſet down, as the firſt Precedent.</p>
+            <p>
+               <q rend="inline">1. Foraſmuch as <hi>Thomas Long,</hi> Gentleman, return<g ref="char:EOLhyphen"/>ed one of the Burgeſſes for the Burrough of <hi>Weſtbury</hi> 
+                  <note place="margin">Sir <hi>Sim. ut ſup.</hi> fol. 182. Col. 2.</note> in the County of <hi>Wilts</hi> for that preſent Parliament, being a very ſimple Man, and of ſmall Capacity to
+<pb n="18" facs="tcp:40934:11"/> ſerve in that Place, did in open Court confeſs, That <note place="margin">10 <hi>May 13 E<g ref="char:EOLhyphen"/>liz.</hi> 1571. Vid. 4 Inſt. 23.</note> he did give to <hi>Anthony Garland,</hi> Mayor of the ſaid Town of <hi>Weſtbury,</hi> and unto one—<hi>Wats</hi> of the ſame Town, the Sum of Four Pounds, for that place and room of Burgesſhip.</q>
+            </p>
+            <p>It was Ordered by the Houſe, <q rend="inline">That the ſaid <hi>An<g ref="char:EOLhyphen"/>thony Garland</hi> and the ſaid <hi>Wats</hi> ſhould forthwith re<g ref="char:EOLhyphen"/>pay unto the ſaid <hi>Thomas Long</hi> the ſame Sum of Four Pounds,</q>
+            </p>
+            <q>
+               <p>And alſo that a Fine of <hi>Twenty Pounds</hi> be aſſeſſed upon the ſaid <hi>Corporation,</hi> or Inhabitants of the ſaid Town of <hi>Weſtbury,</hi> for the Queens Majeſties Uſe, for their ſaid <hi>lewd and ſlanderous Attempt.</hi>
+               </p>
+               <p>And that the ſaid <hi>Thomas Long,</hi> his Executors and Adminiſtrators, ſhould be diſcharged againſt the ſaid <hi>Anthony Garland,</hi> and—<hi>Wats,</hi> their Heirs, Exe<g ref="char:EOLhyphen"/>cutors, and Adminiſtrators, of and from all Bonds made by the ſaid <hi>Thomas Long,</hi> to any perſon or per<g ref="char:EOLhyphen"/>ſons, touching the diſcharge of the exerciſe of the ſaid room or place of Burgesſhip in any wiſe.</p>
+               <p>And on the 11<hi rend="sup">th</hi> of <hi>May,</hi> it was Ordered, That a Purſuivant be ſent with Letters from the Houſe to <hi>Anthony Garland,</hi> Mayor of the Town of <hi>Weſtbury</hi> in the County of <hi>Wilts,</hi> and—<hi>Wats</hi> of the ſame <note place="margin">Id. Ibid.</note> Town, for their perſonal appearance forthwith to be made in the Houſe; and alſo to bring with them all ſuch Bonds, as <hi>Thomas Long</hi> Gentleman, lately returned one of the Burgeſſes for the ſame Town, ſtandeth bound in unto Them, or either of them, or unto any Other to their Uſe. And alſo to anſwer unto ſuch Matters as at their coming ſhall be objected againſt them by the Houſe.</p>
+            </q>
+            <pb n="19" facs="tcp:40934:11"/>
+            <p>2. In the Parliament of the 18<hi rend="sup">th</hi> 
+               <hi>Jacobi primi,</hi> the <note place="margin">2. The Mayor of <hi>Winchelſea</hi>'s Caſe, <hi>Journ. Dom.</hi> Com. 18 Jac. 1.</note> Mayor of <hi>Winchelſea,</hi> for <hi>misbehaving</hi> of himſelf at the <hi>Election</hi> of <hi>Parliament-men</hi> for that Town, and for making a <hi>Falſe Return,</hi> was complained of; and there<g ref="char:EOLhyphen"/>fore it was, upon the Queſtion,</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That the Mayor of <hi>Winchelſea</hi> had committed a <note place="margin">The Judgment of the Houſe a<g ref="char:EOLhyphen"/>gainſt him.</note> 
+               <hi>Contempt</hi> and <hi>Miſdemeanour</hi> againſt that Houſe, and therefore ſhall ſtand <hi>committed</hi> to the <hi>Serjeant</hi> till <hi>Saturday</hi> morning; then making his <hi>Submiſſion</hi> there at the <hi>Bar,</hi> to be diſcharged of any further Puniſhment there.</p>
+            <p>But he was to make his further <hi>Acknowledgment</hi> in <note place="margin">N. B.</note> the <hi>Town</hi> before the <hi>New Election.</hi>
+            </p>
+            <p>3. <hi>Anno</hi> 20<hi rend="sup">o</hi> of King <hi>James</hi> the Firſt, Dr. <hi>Harris,</hi> Mi<g ref="char:EOLhyphen"/>niſter of <hi>Blechingly,</hi> who had <hi>misbehaved</hi> himſelf by <note place="margin">3. <hi>Dr.</hi> Harris'<hi>s</hi> Caſe, Journ. Dom. Com. 20 Jac. 1.</note> 
+               <hi>Preaching,</hi> and <hi>otherwiſe</hi> with reſpect to <hi>Election</hi> of <hi>Members</hi> of <hi>Parliament</hi> there, and being <hi>complained</hi> of in the <hi>Houſe, and referred to a</hi> Committee; The Committee was clearly ſatisfied, That it was a <hi>High</hi> and <hi>Great Offence;</hi> and they are of <hi>Opinion</hi> he ſhould be <hi>called</hi> to the <hi>Bar</hi> as a <hi>Delinquent,</hi> to be <hi>admoniſhed,</hi> and to <hi>confeſs</hi> his <hi>Fault</hi> there, and in the <hi>Country,</hi> and <hi>in the Pulpit of his Pariſh-Church, on</hi> Sunday <hi>ſeven-night before the Sermon.</hi>
+            </p>
+            <p>The Doctor was brought to the Bar, and <hi>kneel<g ref="char:EOLhyphen"/>ed;</hi> the <hi>Houſe</hi> agreed with the <hi>Committee,</hi> and Mr. <hi>Speaker</hi> pronounced Judgment upon him <hi>accor<g ref="char:EOLhyphen"/>dingly.</hi>
+            </p>
+            <pb n="20" facs="tcp:40934:12"/>
+            <p>4. In the <hi>ſame</hi> year of the <hi>ſame</hi> King, upon the <note place="margin">4. <hi>The Mayor of</hi> Arundel'<hi>s</hi> Caſe, Journ. Dom. Com. 20 Jac. 1.</note> Report of Mr. <hi>Glanville,</hi> concerning the <hi>Burrough</hi> of <hi>Arundel,</hi> becauſe the <hi>Mayor</hi> had <hi>misbehaved</hi> himſelf in the <hi>Election,</hi> by putting the Town to a great deal of Charge, not giving a <hi>due</hi> and general <hi>warning,</hi> but <hi>pack'd</hi> a number of <hi>Electors;</hi> It was</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p n="1">1. That a <hi>Warrant</hi> be ſent for the <hi>Mayor,</hi> he not be<g ref="char:EOLhyphen"/>ing then in Town; And</p>
+            <p n="2">2. That <hi>three Members</hi> ſhall ſet down the Charges, and the <hi>Mayor</hi> ſhall pay them.</p>
+            <p>5. <hi>Anno</hi> 20<hi rend="sup">o</hi> King <hi>James</hi> the Firſt, Mr. <hi>Glanville</hi> 
+               <note place="margin">5. <hi>The Caſe of</hi> In<g ref="char:EOLhyphen"/>gray, <hi>the Un<g ref="char:EOLhyphen"/>der-Sheriff of</hi> Cambridgſhire Journ. Dom. Com. 21 Jac. 1.</note> reports the <hi>Miſdemeanour</hi> of the Under-Sheriff of <hi>Cam<g ref="char:EOLhyphen"/>bridgeſhire,</hi> who refuſed the <hi>Poll,</hi> declaring Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Steward</hi> promiſed him to <hi>defend</hi> him againſt Sir <hi>John Cutts,</hi> and told him he ſhould have no <hi>wrong</hi> nor <hi>damage.</hi>
+            </p>
+            <p>
+               <hi>Reſolved upon the Queſtion,</hi>
+            </p>
+            <p n="1">1. That this <hi>
+                  <g ref="char:V">Ʋ</g>nder-Sheriff</hi> ſhall be <hi>committed</hi> to the <hi>Serjeants</hi> Cuſtody till <hi>Thurſday</hi> next.</p>
+            <p n="2">2. That making his <hi>Submiſſion</hi> at the <hi>Bar,</hi> and <hi>ac<g ref="char:EOLhyphen"/>knowledging</hi> his <hi>Offence,</hi> he ſhall be diſcharged from any further Puniſhment in this place.</p>
+            <p n="3">3. That the <hi>
+                  <g ref="char:V">Ʋ</g>nder-Sheriff</hi> ſhall make a <hi>further ſub<g ref="char:EOLhyphen"/>miſſion</hi> openly at the next <hi>Quarter-Seſſions</hi> to be holden in the <hi>County,</hi> and <hi>acknowledg</hi> his <hi>faults.</hi>
+            </p>
+            <pb n="21" facs="tcp:40934:12"/>
+            <p>
+               <hi>Edward Ingry</hi> was brought to the <hi>Bar,</hi> and <hi>kneeling</hi> upon his <hi>knees,</hi> Mr. <hi>Speaker</hi> denounced the <hi>Judgment</hi> of the <hi>Houſe</hi> upon him.</p>
+            <p>6. In the Parliament <hi>Anno 3 Caroli</hi> 1. (Where<g ref="char:EOLhyphen"/>in <note place="margin">6. <hi>The</hi> Caſe <hi>of Sir</hi> W. Wray, <hi>Mr.</hi> Langton, <hi>Mr.</hi> J. Trelawny, <hi>and Mr.</hi> E. Tre<g ref="char:EOLhyphen"/>lawny. Journ. Dom. Com. 3 Car. 1.</note> the excellent <hi>Petition of Right,</hi> or rather a Comment, or Explanation of ſeveral Branches of <hi>Magna Charta</hi> was made) Sir <hi>William Wray,</hi> Mr. <hi>Langton,</hi> Mr. <hi>John Trelawny,</hi> and Mr. <hi>Edward Trelawny,</hi> being <hi>Deputy-Lieutenants</hi> of the County of <hi>Cornwal,</hi> aſſumed to themſelves a <hi>Power</hi> to make whom <hi>They</hi> only pleaſed, <hi>Knights</hi> of the <hi>Shire,</hi> defamed Sir <hi>John Elliot,</hi> and Mr. <hi>Coryton;</hi> who ſtood to be cho<g ref="char:EOLhyphen"/>ſen, <hi>ſent</hi> up and down the <hi>Countrey,</hi> Letters for the <hi>Trained-Bands,</hi> to appear at the day of <hi>Election; me<g ref="char:EOLhyphen"/>nac'd</hi> the <hi>Countrey</hi> under the Title of His Majeſties <hi>Plea<g ref="char:EOLhyphen"/>ſure.</hi>
+            </p>
+            <p>
+               <hi>It was</hi> Ordered,</p>
+            <p n="1">1. That Mr. <hi>Langton,</hi> and Mr. <hi>John Trelawny,</hi> be <hi>committed</hi> to the <hi>Tower,</hi> for their <hi>Offence</hi> done to the <hi>Houſe,</hi> there to remain during the <hi>Pleaſure</hi> of the <hi>Houſe,</hi> and that they make a <hi>ſubmiſſive acknowledgment</hi> of their Offences.</p>
+            <p n="2">2. And Sir <hi>William Wray,</hi> and Mr. <hi>Edward Trelaw<g ref="char:EOLhyphen"/>ny,</hi> be committed to the <hi>Serjeant,</hi> and ſo to remain, till they make their <hi>Recognition</hi> in the <hi>Houſe.</hi>
+            </p>
+            <p>After all which, the <hi>Queſtion</hi> was, Whether the Gen<g ref="char:EOLhyphen"/>tlemen ſhould make the <hi>Recognition</hi> at the <hi>Aſſizes</hi> in <hi>Cornwall,</hi> or No? And it was <hi>Ordered,</hi>
+            </p>
+            <p>That the <hi>Recognition</hi> and <hi>Submiſſion</hi> ſhould be made in the <hi>Countrey;</hi> and a <hi>Committee</hi> was appointed
+<pb n="22" facs="tcp:40934:13"/> to draw the <hi>Recognition,</hi> and they were ſent to the <hi>Tower.</hi>
+            </p>
+            <p>The <hi>Four</hi> Gentlemen were called in to the <hi>Bar,</hi> and the <hi>Speaker</hi> pronounced the <hi>Judgment</hi> upon them, they <hi>kneeling</hi> all that time.</p>
+            <p>7. Mr. <hi>Hackwell</hi> reports from the <hi>Committee</hi> about <note place="margin">7. <hi>The</hi> Caſe <hi>of the Sheriffs of</hi> York <hi>and others.</hi> Journ. Dom. Com. 3 &amp; 4 Car. 1. <hi>Tueſday April 29. Sher.</hi> Thomp<g ref="char:EOLhyphen"/>ſon'<hi>s Two Of<g ref="char:EOLhyphen"/>fences.</hi>
+               </note> the <hi>Sheriffs</hi> of <hi>York,</hi> and others, for the <hi>Election</hi> of Sir <hi>Thomas Savill.</hi>
+            </p>
+            <p>The Two <hi>Sheriffs</hi> and the Two <hi>Aldermen</hi> are <hi>Delin<g ref="char:EOLhyphen"/>quents;</hi> one of the <hi>Sheriffs,</hi> and one of the <hi>Aldermen</hi> are moſt <hi>faulty;</hi> Sheriff <hi>Thompſon</hi> had committed Two Offences.</p>
+            <p n="1">1. His <hi>haſty</hi> and <hi>precipitate</hi> Judgment of the <hi>Ele<g ref="char:EOLhyphen"/>ction,</hi> 
+               <note place="margin">His Firſt.</note> to <hi>prevent</hi> the Election of <hi>Hoy.</hi>
+            </p>
+            <p n="2">2. In <hi>denying</hi> the <hi>Poll,</hi> being required. <note place="margin">His Second.</note>
+            </p>
+            <p>Firſt, his <hi>haſty</hi> and <hi>precipitate</hi> Judgment was done without acquainting his <hi>Fellow-Sheriff,</hi> and it was within a quarter of an hour after the reading of the Writs, and half an hour after nine a Clock; and while he was doing of it, he was admoniſhed, and told that he <hi>could not anſwer it,</hi> and that he might <hi>defer</hi> it; yet he did obſtinately proceed, and anſwered them <hi>frowardly,</hi> and ſaid he <hi>would</hi> do it, and that he would <hi>juſtify</hi> it.</p>
+            <p>His <hi>Excuſe</hi> was, That it was indeed ſuddenly done, <note place="margin">His Excuſe.</note> but it was done ſo formerly: But to that it was replied, that never before <hi>above two</hi> were in <hi>Election.</hi>
+            </p>
+            <p>Secondly, he anſwer'd, That it was not of his <hi>own head,</hi> but ſome <hi>Aldermen</hi> adviſed it; but that was Al<g ref="char:EOLhyphen"/>derman <hi>Cooper,</hi> a <hi>Delinquent</hi> for that <hi>Offence.</hi>
+            </p>
+            <pb n="23" facs="tcp:40934:13"/>
+            <p>For the other <hi>Offence;</hi> in <hi>denying</hi> the <hi>Poll,</hi> after it <note place="margin">His 2d Offence.</note> was demanded, and that was before he had <hi>pronounced</hi> any Judgment, but he was willing that <hi>Robinſon</hi> ſhould have the <hi>Poll,</hi> for he knew he could not carry it; but he refuſed <hi>Hoy,</hi> and he was required <hi>ten times,</hi> but <note place="margin">His Impudent Behaviour.</note> gave <hi>no anſwer</hi> at all. His <hi>Behaviour</hi> before the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> was <hi>impudent,</hi> and he would anſwer nothing di<g ref="char:EOLhyphen"/>rectly.</p>
+            <p>The Committee found this man to be an engaged man, and that he was promiſed to be ſaved harmleſs.</p>
+            <p>For Alderman <hi>Henlow,</hi> he procured the <hi>Company of</hi> 
+               <note place="margin">
+                  <hi>Ald.</hi> Henlow.</note> 
+               <hi>Taylors,</hi> two days before the <hi>Election,</hi> and publiſhed Sir <hi>John Savill</hi>'s Letter, and preſſed it; and upon ſome he preſſed it ſo much, that they ſhould elect Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Savill;</hi> and ſaid the Parliament will not hold.</p>
+            <p>He dealt with the Sheriffs alſo, and told them divers words of Sir <hi>John Savil,</hi> that he would <hi>take it very ill;</hi> and, ſaid he, if you will chuſe Sir <hi>Thomas Savill,</hi> you ſhall be <hi>ſaved harmleſs.</hi>
+            </p>
+            <p>Alſo he endeavoured to procure a <hi>Certificate,</hi> that Sir <hi>Thomas Savill</hi> was duly <hi>elected;</hi> when any <hi>refuſed,</hi> he ſaid they were <hi>factious fellows,</hi> and otherwiſe threat<g ref="char:EOLhyphen"/>ned.</p>
+            <p>The <hi>Committee</hi> cenſured Sheriff <hi>Thomſon,</hi> and this <note place="margin">The Commit<g ref="char:EOLhyphen"/>tees Cenſure.</note> Alderman <hi>Henlow.</hi>
+            </p>
+            <p>Firſt, That they ſhould ſtand committed to the <hi>Ser<g ref="char:EOLhyphen"/>jeant,</hi> during pleaſure.</p>
+            <p>Secondly, That they ſhould <hi>acknowledg</hi> their <hi>Offences</hi> at the <hi>Bar</hi> in the <hi>Full Houſe,</hi> and pay all <hi>due Fees,</hi> be<g ref="char:EOLhyphen"/>fore they be diſcharged.</p>
+            <p>Thirdly, Alſo they ſhould <hi>defray</hi> all the <hi>Charges</hi> of the Witneſſes of Alderman <hi>Hoy,</hi> to be aſſeſſed by <hi>Four</hi> of the <hi>Committee.</hi>
+            </p>
+            <pb n="24" facs="tcp:40934:14"/>
+            <p>Laſtly, And that they ſhould make <hi>acknowledgment</hi> of their <hi>Fault,</hi> before the <hi>Court</hi> of <hi>Aldermen</hi> at <hi>York,</hi> and that the Mayor ſhould certiſie the Submiſſion to the Houſe.</p>
+            <p>As for Alderman <hi>Cooper,</hi> he aſſembled the <hi>Company</hi> 
+               <note place="margin">
+                  <hi>Ald.</hi> Cooper.</note> 
+               <hi>of Merchants,</hi> and read Sir <hi>John Savil</hi>'s Letter for the <hi>Election</hi> of his <hi>Son,</hi> and alſo he at the Election <hi>perſuaded</hi> the Sheriff to give Judgment.</p>
+            <p>Sheriff <hi>Atkins</hi> was only <hi>paſſive,</hi> and did not <hi>refuſe</hi> 
+               <note place="margin">
+                  <hi>Sher.</hi> Atkins.</note> to join with the other Sheriff.</p>
+            <p>As for the point of <hi>Charges</hi> given to the Witneſſes of <hi>Hoy,</hi> it was <hi>doubtful,</hi> and <hi>objected</hi> againſt by ſome, whether in the Power of the Houſe; but it was re<g ref="char:EOLhyphen"/>plied, That in <hi>every Court</hi> it is neceſſary to have <hi>Power</hi> to impoſe <hi>Fines,</hi> and why we ſhould <hi>want Power</hi> for <hi>Of<g ref="char:EOLhyphen"/>fences</hi> that lie in our <hi>cognizance,</hi> is not to be queſtioned; elſe the <hi>Party</hi> that is <hi>duly Elected,</hi> and that juſtifies the <hi>Free Election,</hi> and maintains the <hi>Freedom</hi> and <hi>Liberty</hi> of the <hi>Common-wealth,</hi> ſhall be <hi>more puniſhed</hi> than the <hi>Delinquent;</hi> alſo we have power to <hi>impriſon,</hi> which is more than a <hi>Fine;</hi> alſo we have as much as the <hi>Lords Houſe</hi> in thoſe things that lye in our <hi>Juriſdiction.</hi> Seve<g ref="char:EOLhyphen"/>ral Inſtances were here given of <hi>Fining</hi> perſons, which I omit.</p>
+            <p>I ſhall obſerve as to their <hi>Power</hi> of <hi>Impriſoning,</hi> that <note place="margin">
+                  <hi>Crompton's Ju<g ref="char:EOLhyphen"/>riſdict.</hi> p. 8, 9, 10, 11.</note> in the 34 <hi>H.</hi> 8. almoſt 150 years ago, for <hi>Breach</hi> of <hi>Privilege,</hi> the Sheriffs of <hi>London,</hi> in <hi>Ferrers</hi> caſe, were <hi>committed</hi> to the <hi>Tower</hi> of <hi>London,</hi> and the <hi>Clerk</hi> (who <note place="margin">
+                  <hi>Crompton was a Learned Lawyer of the Middle Temple, and Reader in 1573. the</hi> 15th <hi>year of the Queen's Reign; he dedicated his Book to Sir</hi> John Puckering, <hi>Knt. Lord Keeper of the Great Seal of</hi> England, <hi>in the year 1594. almoſt 100 years ago.</hi>
+               </note>
+               <pb n="25" facs="tcp:40934:14"/> was the occaſion of the <hi>Fray)</hi> to a place there called <hi>Little-Eaſe?</hi> and Officer of <hi>London</hi> which did the <hi>Arreſt,</hi> called <hi>Taylor,</hi> with Four Officers, to <hi>Newgate,</hi> where they remained Three Days, and then delivered, not without <hi>humble Suit</hi> of the Mayor of <hi>London,</hi> and other their Friends. And the <hi>Proceedings</hi> of the <hi>Com<g ref="char:EOLunhyphen"/>mons</hi> in this caſe of <hi>Ferrers,</hi> in maintaining the Privi<g ref="char:EOLhyphen"/>ledges <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Hollinſh. Chron. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1584.</note> of their Houſe was not only commended even by King <hi>Henry</hi> the <hi>Eighth</hi> himſelf, but was alſo con<g ref="char:EOLhyphen"/>firmed by divers Reaſons, by the Lord Chief Juſtice <hi>Mountague,</hi> and <hi>aſſented</hi> unto by all the reſt of the Judges.</p>
+            <p>But to return to the Caſe before us, of the Sheriffs of <hi>York,</hi> and <hi>Others.</hi>
+            </p>
+            <p>It was upon that whole matter <hi>Ordered,</hi>
+            </p>
+            <p>That <hi>Thompſon</hi> and <hi>Henlow</hi> pay the <hi>Charges</hi> of Wit<g ref="char:EOLhyphen"/>neſſes, brought up about the <hi>Proof</hi> of the ſaid <hi>Election;</hi> and that ſhall not be diſcharged from the <hi>Serjeant,</hi> till they pay their <hi>Fees;</hi> and <hi>Four</hi> Gentlemen of the <hi>Houſe</hi> are to moderate, and ſet down the <hi>Charges in certain.</hi>
+            </p>
+            <p>And it is <hi>Ordered,</hi> That they ſhall be <hi>committed</hi> to the <hi>Serjeant</hi> till they make their <hi>Submiſſion</hi> at the <hi>Bar,</hi> and <hi>acknowledg</hi> their <hi>faults</hi> on their <hi>Knees,</hi> and read a <hi>Sub<g ref="char:EOLhyphen"/>miſſion.</hi>
+            </p>
+            <p>As for the <hi>Submiſſion</hi> to be made at <hi>York,</hi> it was through great Favour remitted by the <hi>Houſe.</hi>
+            </p>
+            <p>To theſe few Inſtances (out of ſeveral others which might be collected from the <hi>Journals</hi> of the <hi>Commons Houſe)</hi> give me leave to ſuperadd the Caſe of the Borough of <hi>Stochbridge,</hi> which happened in the laſt Parliament; and I find it thus ſet down in their Printed Votes.</p>
+            <pb n="26" facs="tcp:40934:15"/>
+            <p>8. Mr. <hi>Grey</hi> reports from the <hi>Committee</hi> of <hi>Priviledges</hi> 
+               <note place="margin">8. <hi>Votes of the H. of</hi> Commons, Primo. Will. &amp; Mariae, n<hi rend="sup">o</hi>. 19. Veneris 15 die Nov. 1689.</note> and Elections, the Caſe touching the Election of a Mem<g ref="char:EOLhyphen"/>ber to ſerve in this preſent Parliament, for the Borough of <hi>Stockbridge,</hi> in the County of <hi>Southampton;</hi> that there had appeared very undue practices in giving and promiſing ſeveral Sums of Money for procuring Voices at the ſaid Election; whereupon the ſaid Committee had come to Three Reſolutions, <hi>viz.</hi>
+            </p>
+            <p>Reſolved,</p>
+            <p n="1">1. That <hi>William Mountague,</hi> Eſquire, is not duly Elected a Burgeſs to ſerve in this preſent Parliament, for the ſaid Borough.</p>
+            <p n="2">2. That <hi>William Strode</hi> Eſquire, is not duly elected a Burgeſs, to ſerve in this preſent Parliament for the ſaid Borough.</p>
+            <p n="3">3. That the ſaid Election is a void Election.</p>
+            <p>To all which Reſolves, the Houſe agreed.</p>
+            <p>Ordered,</p>
+            <p>That <hi>Richard Hewes</hi> (Bailiff of <hi>Stockbridge</hi> in the County of <hi>Southampton) Page Robinſon,—Gate<g ref="char:EOLhyphen"/>houſe,</hi> and <hi>Samuel Hall</hi> of <hi>Stockbridge</hi> aforeſaid, be ſent for in Cuſtody of the Serjeant at Arms, attending this Houſe, for giving and taking Bribes at the ſaid Election.</p>
+            <p>Reſolved,</p>
+            <p>That <hi>William Mountague</hi> Eſquire, be diſabled from being Elected a Burgeſs to ſerve in this preſent Parlia<g ref="char:EOLhyphen"/>ment, for the ſaid Borough of <hi>Stockbridge.</hi>
+            </p>
+            <pb n="27" facs="tcp:40934:15"/>
+            <p>The Queſtion being put, That <hi>William Strode,</hi> Eſ<g ref="char:EOLhyphen"/>quire, be diſabled in like manner, it paſſed in the Ne<g ref="char:EOLhyphen"/>gative.</p>
+            <p>A Debate ariſing touching the <hi>Disfranchiſing</hi> of the ſaid Borough for ever hereafter, from ſending Burgeſ<g ref="char:EOLhyphen"/>ſes to Parliament: and inſtead thereof, that Two more Knights of the Shire be choſen for the County of <hi>Southampton.</hi>
+            </p>
+            <p>Reſolved,</p>
+            <p>That the Debate be adjourned.</p>
+            <p>A Petition of <hi>Hewes</hi> and other Inhabitants of <hi>Stock<g ref="char:EOLhyphen"/>bridge,</hi> in Cuſtody of the <hi>Serjeant</hi> at Arms, attending <note place="margin">Idem n<hi rend="sup">o</hi>. 29. Mercurii 27 die Nov. 1689.</note> the <hi>Houſe,</hi> was read; wherein they <hi>acknowledge</hi> their <hi>Offence,</hi> in promiſing <hi>ſeveral ſums</hi> of Money for <hi>Votes,</hi> and other <hi>undue practices</hi> at the late <hi>Election</hi> there, and crave <hi>Pardon</hi> of the <hi>Houſe</hi> for the ſame.</p>
+            <p>And the Petitioners being called in, and <hi>ſeverely</hi> re<g ref="char:EOLhyphen"/>proved by Mr. Speaker for their ſaid <hi>Offences,</hi> were <hi>diſcharged,</hi> paying their <hi>Fees.</hi>
+            </p>
+            <p>The next day a Petition of <hi>Page Robinſon,</hi> in <note place="margin">Idem, N<hi rend="sup">o</hi> 30.</note> Cuſtody of the <hi>Serjeant</hi> at Arms attending this <hi>Houſe,</hi> was read; wherein he <hi>acknowledged</hi> his <hi>Of<g ref="char:EOLhyphen"/>fence</hi> in giving <hi>Bribes</hi> for procuring <hi>Voices</hi> at the late <hi>Election</hi> at <hi>Stockbridge,</hi> and craved the <hi>Pardon</hi> of the <hi>Houſe</hi> for it: And he being called in, and <hi>ſeverely</hi> reproved by Mr. <hi>Speaker</hi> for his ſaid <hi>Offence,</hi> was diſchar<g ref="char:EOLhyphen"/>ged, paying his <hi>Fees.</hi>
+            </p>
+            <p>And it was <hi>Ordered,</hi>
+            </p>
+            <p>That Mr. <hi>Speaker</hi> iſſue his Warrant to the Clerk <note place="margin">Idem, N<hi rend="sup">o.</hi> 44. die <hi>Sabbati, 14. Decembris.</hi>
+               </note> of the Crown, for a <hi>New Writ</hi> for electing a Burgeſs for <hi>Stockbridge</hi> in the County of <hi>Southampton,</hi> in the room of Mr. <hi>Mountague.</hi>
+            </p>
+            <pb n="28" facs="tcp:40934:16"/>
+            <p>Thus, <hi>Sir,</hi> you ſee, though our <hi>Parliaments</hi> have not yet ſufficiently provided for the <hi>Regulating Ele<g ref="char:EOLhyphen"/>ctions</hi> by a General and Publick Law; yet the <hi>Houſe of Commons,</hi> as an Ancient Right of their very <hi>Eſſence</hi> and Being, <hi>from which they cannot depart,</hi> have ſtill, upon Complaints made to them of <hi>foul Practi<g ref="char:EOLhyphen"/>ces</hi> in getting the <hi>Returns</hi> of Members to ſerve in Parliament, that have not been <hi>duly choſen,</hi> always taken care to inflict <hi>ſuitable Puniſhments</hi> upon the <hi>Offenders,</hi> to ſhew their <hi>Diſlike</hi> and <hi>Abhorrence</hi> of their Crimes.</p>
+            <p>And, I hope, if it ſhall be proved, that any <hi>no<g ref="char:EOLhyphen"/>torious</hi> and <hi>ſcandalous Pranks</hi> have been played, to get a Party of Men into your <hi>Houſe,</hi> either by <hi>Fraud,</hi> or <hi>Force,</hi> or whatever other <hi>unwarrantable Pretence,</hi> not allowed by the Laws of this Realm, that ſhall be ready to foment Differences, <hi>create Diſagreements</hi> 
+               <note place="margin">
+                  <hi>K.'s Sp. to both Houſes of Parl.</hi> 21 March, 1689/90.</note> 
+               <hi>in your Councels, and diſturb, or delay your ſpeedy and unanimous Proceedings upon the neceſſary Matters</hi> before you, for the Peace and Settlement of the Na<g ref="char:EOLhyphen"/>tion, you will make it your ſpecial Care to ſummon all ſuch <hi>Criminals</hi> to your <hi>Bar,</hi> and upon <hi>Conviction,</hi> to give them the <hi>Juſtice</hi> due to their <hi>Demerits;</hi> that the <hi>Acknowledgement</hi> of their <hi>Faults,</hi> the <hi>Repentance</hi> for them, and <hi>humble Submiſſion</hi> to the <hi>Righteouſneſs</hi> of your <hi>Cenſures,</hi> may be as <hi>publick</hi> in their reſpe<g ref="char:EOLhyphen"/>ctive <hi>Counties, Cities,</hi> and <hi>Burroughs,</hi> as their <hi>bold Invaſions</hi> have been upon the <hi>Indubitable Rights</hi> and Priviledges of the <hi>Subject,</hi> contrary to the Tenour <note place="margin">Mag. Chart. 9 H 3. cap. 9. Spelm. <hi>Gloſſar. i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Magna Charta, fol. 374.</note> of the <hi>Great Charter</hi> of the Liberties of <hi>England, (Auguſtiſſimum Anglicarum Libertatum Diploma, &amp; Sacra Anchora,</hi> as Sir <hi>Henry Spelman</hi> juſtly calls it) which ſays, That the City of <hi>London</hi> ſhall have <hi>All</hi>
+               <pb n="29" facs="tcp:40934:16"/> the <hi>Old Liberties</hi> and <hi>Cuſtoms,</hi> which it hath been <hi>uſed</hi> to have. Moreover, We will and grant, That ALL OTHER <hi>Cities, Burroughs, Towns,</hi> and the <hi>Barons</hi> of the <hi>Five Ports,</hi> and all <hi>other Ports,</hi> ſhall have <hi>All</hi> their <hi>Liberties</hi> and <hi>Free Cu<g ref="char:EOLhyphen"/>ſtoms.</hi>
+            </p>
+            <p>There is a very uſeful Treatiſe lately publiſhed, called, <hi>Lex Parliamentaria,</hi> in the <hi>Appendix</hi> whereof we read <note place="margin">
+                  <hi>Lex Parliam.</hi> pag. 319.</note> this remarkable Note, <q rend="inline">That the Chancellor cannot ex<g ref="char:EOLhyphen"/>amine Returns to Parliament; and the Reaſon is, becauſe thereby the County may loſe the <hi>Freedom</hi> of their <hi>Elections;</hi> And the Book ſays, That by ſuch means the King with his Council might make any Man whom they would, to be of the Parliament-houſe, againſt the <hi>Great Charter,</hi> and the Liberties of <hi>England.</hi>
+               </q>
+            </p>
+            <p>Now, <hi>Sir,</hi> as that can never be too often incul<g ref="char:EOLhyphen"/>cated, which ought never to be forgotten, I muſt beg the favour to re-mind you of one thing, which You and I have ſeveral times diſcourſed of former<g ref="char:EOLhyphen"/>ly, becauſe it equally concerns the <hi>Ancient Rights</hi> of both <hi>Lords</hi> and <hi>Commons,</hi> in giving their <hi>concur<g ref="char:EOLhyphen"/>ring Aſſents</hi> to the Making and Enacting of <hi>Statutes,</hi> which ſome Sycophanting Scriblers have in this <hi>laſt Age</hi> been induſtriouſly labouring to deprive and rob them both of, for the Advance of an <hi>Abſolute</hi> and <hi>Deſpotick</hi> Monarchy; And that is,</p>
+            <p n="1">1. That this <hi>Great Charter</hi> was <hi>not</hi> purely and meerly an <hi>Emanation</hi> of <hi>Royal Grace</hi> and <hi>Bounty,</hi> which the People of <hi>England</hi> could not pretend any <hi>Right</hi> unto before; but it was a reſtoring to them ſuch <hi>Liberties</hi> as had been <hi>raviſhed</hi> from them by an <hi>uſurped</hi> and <hi>encroached Power,</hi> as you may obſerve by
+<pb n="30" facs="tcp:40934:17"/> ſeveral Expreſſions in this Charter, <hi>viz. Sua Jura,</hi> their Rights; <hi>Libertates ſuas,</hi> their Liberties, which ſhews plainly, That they were <hi>poſſeſſed</hi> of them be<g ref="char:EOLhyphen"/>fore; and that therefore this was but a <hi>Reſtitution</hi> or <hi>Confirmation</hi> of them; For which (as my L. <hi>Coke's</hi> words <note place="margin">2 Inſt. fol. 77.</note> are) <q rend="inline">the Archbiſhops, Biſhops, Abbots, Priors, Earls, Barons, Knights, Freeholders, and other the King's Subjects, Citizens, and Burgeſſes (aſſem<g ref="char:EOLhyphen"/>bled in Parliament) gave unto the King one fif<g ref="char:EOLhyphen"/>teenth part of all their Movable Goods; which pro<g ref="char:EOLhyphen"/>veth, That as the <hi>Fifteenth</hi> was granted by <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> ſo was this <hi>Great Charter</hi> alſo granted by <hi>Authority</hi> of the <hi>ſame.</hi>
+               </q>
+            </p>
+            <p n="2">2. And that this was a <note n="*" place="margin">28 E. 3. cap. 1. 36 E. 3. cap. 1. <hi>Littleton,</hi> ſect. 108. 12 E. 4. cap. 7. Rot. Stat. 25 E. 1. m. 38. vid. 2. Inſtit. 525. Idem, 526.</note> 
+               <hi>Statute,</hi> and made,</p>
+            <p n="1">1. <hi>Per Commune Aſſent de tut le Roialme en temps le Roy Henry noſtre Piere,</hi> by the common Aſſent of all the Realm in the time of King <hi>Hen.</hi> 3. that is, ſaith my Lord <hi>Coke,</hi> by Authority of Parliament. Or,</p>
+            <p n="2">2. As the Statute of the 15 <hi>Edw.</hi> 3. more particularly <note place="margin">Rot. Parl. 15 E. 3. n. 50. <hi>dorſo.</hi>
+               </note> expreſſes the <hi>conſtituent Parts</hi> of the Makers of it; <hi>ſcilicet,</hi> that it was made <hi>par Seignieur le Roy, Piers, &amp; la Commune de la terre;</hi> by the King, Peers, and Commons of the Land.</p>
+            <p>I will give you at preſent no further trouble, but only aſſure you, That in whatſoever you ſhall pleaſe to command, according to the utmoſt extent of my Ca<g ref="char:EOLhyphen"/>pacity, you ſhall always find me,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your moſt Obedient Servant,</hi> &amp;c.</signed>
+            </closer>
+            <pb facs="tcp:40934:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
